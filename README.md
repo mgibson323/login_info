@@ -9,7 +9,7 @@ The script will output the hostname in ascii font, list the user you're logged i
 ## Install
 
 1. clone this repo
-2. chmod +x login_info/login_info.sh
+2. run `chmod +x login_info/login_info.sh`
 3. mv the login_info.sh to /etc/profile.d/ or run it from /etc/profile, ~/.profile, etc.
 
 ## License
