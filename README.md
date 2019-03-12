@@ -6,6 +6,11 @@ This is a small script designed to run upon login
 
 The script will output the hostname in ascii font, list the user you're logged in as, and output the host's IPs (from eth0)
 
+## Requirements
+
+- Ubuntu (works on others with small changes, i.e. interface name in script)
+- [figlet](http://www.figlet.org/)
+
 ## Install
 
 1. clone this repo
