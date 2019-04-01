@@ -20,3 +20,5 @@ The script will output the hostname in ascii font, list the user you're logged i
 ## License
 
 nunya
+
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
