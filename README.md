@@ -10,7 +10,7 @@ The script will output the hostname in ascii font, run `screenfetch` to output s
 
 - Ubuntu (works on others with small changes, i.e. interface name in script)
 - [figlet](http://www.figlet.org/)
-- [screenfetch](`sudo apt install screenfetch`)
+- screenfetch (`sudo apt install screenfetch`)
 ## Install
 
 1. clone this repo
