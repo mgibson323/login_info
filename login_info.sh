@@ -1,7 +1,7 @@
 #! /bin/bash	
 figlet $(hostname)
 echo "---------------"
-whoami
+screenfetch
 echo "---------------"
 #255.255.255.255
 #ifconfig en0| grep 'inet '|cut -d' ' -f2 |awk '{print $1}'
