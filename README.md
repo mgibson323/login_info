@@ -4,13 +4,13 @@ This is a small script designed to run upon login
 
 ## Description
 
-The script will output the hostname in ascii font, list the user you're logged in as, and output the host's IPs (from eth0)
+The script will output the hostname in ascii font, run `screenfetch` to output system information, and output the host's IPs (from eth0)
 
 ## Requirements
 
 - Ubuntu (works on others with small changes, i.e. interface name in script)
 - [figlet](http://www.figlet.org/)
-
+- [screenfetch](`sudo apt install screenfetch`)
 ## Install
 
 1. clone this repo
