@@ -24,7 +24,7 @@ We use a number of labels for our PRs. At a high level, here are the important l
 
 * **DO-NOT-MERGE**. This label means that only the original author should merge or indicate when the PR is ready for merge, independent of review approval. 
 
-    Please add this label if @digitalocean/product-docs should _not_ merge your PR after approving it, and include information in the PR description about when a merge should happen (e.g. at a particular time for a launch, after a bug has been fixed, or with an additional person's review).
+    Please add this label if we should _not_ merge your PR after approving it, and include information in the PR description about when a merge should happen (e.g. at a particular time for a launch, after a bug has been fixed, or with an additional person's review).
 
 * **WIP**. This label means that the PR isn't finished and isn't ready to be merged, but is ready for incremental review. Please assign a specific person as reviewer if relevant.
 
